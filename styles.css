@@ -6,3 +6,12 @@ padding-left: 17px;
 display: flex;
 
 }
+.background-image image{
+    width: 100%;
+    flex-wrap: wrap;
+    object-fit:cover
+
+}
+.bg-body-tertiary{
+    background-color: gray;
+}
